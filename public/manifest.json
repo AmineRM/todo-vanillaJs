@@ -1,0 +1,10 @@
+{
+    "name": "Todo",
+    "version": "1.0.0",
+    "default_locale": "en",
+    "description": "Todo app",
+    "icons": {},
+    "author": "Amine Rahmouni",
+    "homepage_url": "./index.html",
+    "short_name": "todo"
+}
