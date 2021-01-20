@@ -46,3 +46,4 @@ searchBar.querySelector("#searchInput").addEventListener( 'keyup', e => {
         }
     })
 })
+searchBar.addEventListener( 'submit', e => {e.preventDefault()})
